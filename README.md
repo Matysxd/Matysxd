@@ -1,2 +1,1 @@
-- 👋 Čau já jsem @Matysxd
-- 👀 Rád dělám v VSC jazyk lua
+
