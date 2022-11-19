@@ -60,9 +60,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matysxd)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matysxd)](https://github.com/anuraghazra/github-readme-stats)
+![Matys GitHub stats](https://github-readme-stats.vercel.app/api?username=matysxd&show_icons=true&theme=radical)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&layout=compact&color=black)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
 </div>
