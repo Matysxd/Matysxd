@@ -58,25 +58,27 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-## 📊 Github Stats
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-<h3></h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=matysxd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="matysxd" 
-    bg_color=#808080/></p>
 
-<br>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matysxd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+  <h2 align="center"> 📊 Github Stats </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matysxd&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&theme=react&line_height=40&hide=css"/>
+	    
+    </a>
+</div
 
-<br>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matysxd&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="matysxd" /></p>
+
       
 
 
