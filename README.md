@@ -59,10 +59,11 @@
 <br>
 
 <div align="center">
-
+	
+	
 ![Matys GitHub stats](https://github-readme-stats.vercel.app/api?username=matysxd&show_icons=true&theme=radical)
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&layout=compact)](https://github.com/matysxd/github-readme-stats)
 
 </a>
 </div>
