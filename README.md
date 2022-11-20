@@ -58,15 +58,27 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-	
-	
-![Matys GitHub stats](https://github-readme-stats.vercel.app/api?username=matysxd&show_icons=true&theme=radical)
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&layout=compact)](https://github.com/matysxd/github-readme-stats)
+## 📊 Github Stats
 
-</a>
-</div>
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+<h3></h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=matysxd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="matysxd" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matysxd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matysxd&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="matysxd" /></p>
+      
+
 
 <br>
 <br>
