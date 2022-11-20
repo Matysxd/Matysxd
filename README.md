@@ -14,9 +14,10 @@
 
 <br>
 
-- Starting developer in fivem
-- Developing in Lua Css Html
-- Like to learn new stuff
+
+- <h3 align="left"> Starting developer in fivem </h3>
+- <h3 align="left"> Developing in LUA CSS HTML </h3>
+- <h3 align="left"> Like to learn new stuff </h3>
 
 <br><br>
 
