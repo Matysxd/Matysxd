@@ -2,18 +2,18 @@
 <h1 align="center"><b>Hi , I'm Matys </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-
 <br>
 
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
 
+<br>
+	
 
 - <h3 align="left"> Starting developer in fivem </h3>
 - <h3 align="left"> Developing in LUA CSS HTML </h3>
@@ -52,20 +52,19 @@
 <br>
 
 -----
-
+<div align='center'>
 <br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
+<div align='center'>
 
 
 
 
 <br/>
 
-  <h2 align="center"> 📊 Github Stats </h2>
   
   <div align="center"> 
      <a href="">
@@ -74,7 +73,6 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&theme=react&line_height=40&hide=css"/>
 	    
-    </a>
 </div
 
 <br/>
