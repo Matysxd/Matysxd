@@ -36,7 +36,7 @@
 
 <br>   
 
-- **Softwares and Tools**:
+- **Softwares, Games and Tools**:
 
     ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -46,6 +46,7 @@
     ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
     ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+    ![FiveM](https://img.shields.io/badge/FiveM-%23E34F26.svg?style=for-the-badge&logo=FiveM&logoColor=white)
 
 
 <br>
