@@ -72,6 +72,10 @@
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matysxd&layout=compact&theme=react"/>
+    </a>
+	<a href="">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Matysxd"/>
+
 	    
 </div
 
