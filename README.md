@@ -74,7 +74,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matysxd&layout=compact&theme=react"/>
     </a>
 	<a href="">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&size_weight=0.5&count_weight=0."/>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 	    
 </div
