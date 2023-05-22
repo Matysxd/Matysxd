@@ -47,7 +47,7 @@
     ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
     ![FiveM](https://img.shields.io/badge/FiveM-%23E34F26.svg?style=for-the-badge&logo=FiveM&logoColor=white)
-
+    ![Csgo](https://img.shields.io/badge/CS:GO-%23E34F26.svg?style=for-the-badge&logo=CounterStrike&logoColor=black)
 
 <br>
 <br>
