@@ -73,15 +73,14 @@
 	    
 </div
 
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&layout=compact)](https://github.com/matysxd/github-readme-stats)
-      
-
-
+<br/>	  
+   
 <br>
 <br>
 <br>
 
+	  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd&layout=compact)](https://github.com/matysxd/github-readme-stats)	  
 -----
 
 
