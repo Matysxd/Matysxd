@@ -74,7 +74,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matysxd&layout=compact&theme=react"/>
     </a>
 	<a href="">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matysxd-matysxd&layout=compact&theme=react&include_all_commits=true"/>
+
 	    
 </div
 
