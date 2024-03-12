@@ -16,7 +16,6 @@
 
 - <h3 align="left"> New developer in fivem </h3>
 - <h3 align="left"> Developing in LUA CSS HTML </h3>
-- <h3 align="left"> I like gay sex </h3>
 
 <br><br>
 
